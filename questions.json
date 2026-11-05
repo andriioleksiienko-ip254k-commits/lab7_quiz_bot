@@ -1,0 +1,103 @@
+
+[
+  {
+    "question": "Що означає HTML?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Tech Modern Language",
+      "Hyper Transfer Main Logic",
+      "Home Tool Markup Language"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Яка мова використовується для стилізації вебсторінок?",
+    "options": [
+      "Python",
+      "HTML",
+      "CSS",
+      "SQL"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Що таке CPU?",
+    "options": [
+      "Оперативна пам'ять",
+      "Центральний процесор",
+      "Відеокарта",
+      "Жорсткий диск"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Яка мова використовується для запитів до баз даних?",
+    "options": [
+      "SQL",
+      "CSS",
+      "Ruby",
+      "HTML"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Що означає RAM?",
+    "options": [
+      "Read Access Module",
+      "Random Access Memory",
+      "Remote Application Manager",
+      "Rapid Action Memory"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Який протокол використовується для захищених вебз'єднань?",
+    "options": [
+      "FTP",
+      "HTTP",
+      "HTTPS",
+      "SMTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Який тип даних у Ruby представляє асоціативний масив?",
+    "options": [
+      "Array",
+      "String",
+      "Integer",
+      "Hash"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Яка команда Git створює новий локальний репозиторій?",
+    "options": [
+      "git start",
+      "git init",
+      "git create",
+      "git new"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Що означає API?",
+    "options": [
+      "Application Programming Interface",
+      "Advanced Program Internet",
+      "Automatic Process Integration",
+      "Application Protocol Input"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Яка система керування базами даних є реляційною?",
+    "options": [
+      "MongoDB",
+      "Redis",
+      "PostgreSQL",
+      "Neo4j"
+    ],
+    "correct": 2
+  }
+]
